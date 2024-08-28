@@ -1,14 +1,8 @@
 # Machine Learning App
 
-create
-Here
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+machine learning up
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-
+this app is built to ass
    $ pip install -r requirements.txt
    ```
 
