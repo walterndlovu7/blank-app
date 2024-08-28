@@ -1,5 +1,5 @@
-# Build your own APP
-
+# Machine Learning App
+g
 create
 Here
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
@@ -16,4 +16,4 @@ Here
 
    ```
    $ streamlit run streamlit_app.py
-   ```
+ y  ```
